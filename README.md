@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center" width="100px">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<h1 align="center" width="100px">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=18&lines=Hey!+I+am+a+senior+Full+Stack+Developer;With+5+years+of+experience+in+mobile+and+web+development+.+.+.;)](https://git.io/typing-svg)
@@ -15,7 +15,19 @@
 
 </h1>
 
-Key skills include:
+
+# Hi, I'm Andrii 👋
+
+<!--<strong>I am a Senior Front-end Consultant, Developer Advocate and Google Developer Expert for Web.</strong>-->
+
+I am a Senior Full-Stack Engineer with a rich background in development and design. I have extensive experience creating cutting-edge, user-centric web applications. 
+
+My unique perspective on web development combines my experience in both development and design to deliver exceptional results for clients. I am an expert in developing user interfaces that enhance the user experience and I excel at working collaboratively with designers to create visually engaging designs. My approach to web development is always user-centered. I guarantee that the end product will be functional and aesthetically pleasing. My expertise in user-centered design guarantees that my web solutions are not only visually stunning but also intuitive and easy to use.
+
+I have worked with a wide range of organizations, including large multinationals and small startups, and I have a proven track record of helping them overcome challenges and achieve their goals. In my current role as a Senior Front-end Consultant, I continue to deliver innovative, user-centered web solutions that exceed client expectations.
+
+
+<strong> Key skills include:</strong>
 
 Promoting and communicating new ideas<br>
 Creating process improvements<br>
@@ -112,3 +124,10 @@ Please consider the following highlights<be>
 <!-- <a href="mailto:topstar88@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-topstar88@outlook.com-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a> -->
 <!-- <a href="tel:+15754041672"><img src="https://img.shields.io/badge/-%2B1(575)4041672-341672?style=for-the-badge&logo=phonepe&logoColor=white"/></a> -->
 </p>
+
+## Social 📱
+You can find me on the following social media platforms or send me an email:
+<!--* 👔 [LinkedIn](https://www.linkedin.com/in/davebitter)
+* 🗣 [Twitter](https://twitter.com/dave_bitter)
+* 📷 [Instagram](https://www.instagram.com/davebitter)
+* ✉️ [daveybitter@gmail.com](mailto:daveybitter@gmail.com)-->
