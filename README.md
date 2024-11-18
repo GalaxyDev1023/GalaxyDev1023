@@ -16,7 +16,7 @@
 </h1>
 
 
-# Hi, I'm Andrii 👋
+# Hi, I'm a senior engineer 👋
 
 <!--<strong>I am a Senior Front-end Consultant, Developer Advocate and Google Developer Expert for Web.</strong>-->
 
