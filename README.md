@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://octodex.github.com/nuxtocat/" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="600" height="300"/>
 </div>
 
 <h1 align="center" width="100px">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">I am a Senior Software Engineer & Problem-Solving Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
